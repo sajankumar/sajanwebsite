@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology
+
+# TEAM
+
+    Name: Sajankumar Vijayan
+    Linkedin: https://www.linkedin.com/in/skv88/
+
+
+# TECHNOLOGY JAVASCRIPT
+
+    CSS3, HTML5, Javascript, Nodejs, Mongodb
+    ngnix, jQuery, Modernizr, Normalize.css,
+    Bulma.io, Font-Awesome
