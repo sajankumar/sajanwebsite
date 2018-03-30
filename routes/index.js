@@ -9,4 +9,12 @@ router.get('/', function(req, res, next) {
   ` });
 });
 
+router.get('/skills', function(req, res, next) {
+  res.render('skills', { title: `
+    Skills of Sajankumar | javaScript, Angular, React, Nodejs, Mongodb, Git, Agile, HTML5, 
+    Block Element Modifier (BEM) and other web technologies and frameworks.
+  ` });
+});
+
+
 module.exports = router;
